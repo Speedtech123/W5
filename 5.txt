@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+"//http://www.w3.org/TR/xhtml/11/DTD/xhtml 11.DTD">
+<html xmlns="www.w3.org/tr/xhtml/1999/xhtml1.dtd">
+<head>
+<title>onload and onfocus Events </title>
+</head>
+<body onload="alert('WELCOME TO OUR HOME PAGE')">
+<form>
+<label><h2>Enter Your Name:</h2>
+<input type="text" onfocus="alert('Enter Your Name')" />
+</label>
+</form>
+</body> </html>
